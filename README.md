@@ -3,7 +3,7 @@
 
 👩‍💻 Passionate about creating seamless user experiences by bridging the gap between product, design, and technology.  
 🎓 Currently pursuing a Master's degree in Software Engineering at UTFPR, focusing on gamification in HR management.  
-💼 Professional experience at companies like Loggi and Nubank, working on both frontend and backend development to deliver impactful solutions.  
+💼 Professional experience at companies like [Loggi](https://github.com/loggi) and [Nubank](https://github.com/nubank), working on both frontend and backend development to deliver impactful solutions.  
 🔧 Skilled in Python, TypeScript, Clojure, JavaScript, Kotlin, Java, and .NET.  
 📊 Experienced with databases like MySQL, MongoDB, and Firebase.  
 🚀 Enthusiastic about agile methodologies, CI/CD, and automated testing.  
