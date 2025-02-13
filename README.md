@@ -1,4 +1,4 @@
-### Allison Sampaio  
+### Hi there! 👋🏼
 **Software Engineer | Master's Student in Software Engineering**  
 
 👩‍💻 Passionate about creating seamless user experiences by bridging the gap between product, design, and technology.  
